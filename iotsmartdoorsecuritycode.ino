@@ -1,4 +1,4 @@
- /* * Project: IoT Smart Door Security System
+ /* * Project: IoT Smart Door Security System.
  * Developer: Aarti Pathare
  * Features: PIR Motion Detection, Blynk IoT Integration, Secret Key Override
  */
